@@ -1,1 +1,2 @@
+I am new to Git. Modifying the file from branch project team1.
 I am new to Git. Modifying the same line from project team 2 :)
